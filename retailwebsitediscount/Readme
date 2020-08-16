@@ -1,0 +1,23 @@
+Hi,
+
+This project (Retail Discounts) has been developed in eclipse, to run the project please import the project in eclipse from Github and run Run.java.
+To run JUnit tests run them in eclipse as JUnits. Junits are present in java.retailstore.test package.
+
+UML Diagram of the project is available in "UML - classdiagram" folder of the project. I have created it using drawio.
+
+Following technologies have been used for developing this project.
+
+* Java 1.8
+* JUnit for Unit Tests
+* Eclipse to run and test the program
+
+Code has sufficient documentation for you to go through it. please let me know if more explanation is required.
+
+To generate code coverage report I have used EclEmma plugin in Eclipse. To run the plugin right click on the Junit class and run coverage as Junit Test.
+Current code coverage is 93.4% after commenting Run.java which contains main() method. Please check the screenshot in the folder code coverage.
+Otherwise it is 87.3%.
+
+-- General information about the project --
+1. User class represents a user.
+2. Shopping card class is to add a product to the card and can compute the total price of the added items.
+
