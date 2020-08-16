@@ -12,8 +12,8 @@ public class Run {
     public static void main (String[] args)
     {
     	User employee = new User("Nawazish","EMPLOYEE");
-        BaseProduct groceryItem = new Product("Rice", 20, "GROCERY");
-        BaseProduct electronicsItem = new Product("TV", 222, "Electronics");
+        BaseProduct groceryItem = new Product("Rice", 50, "GROCERY");
+        BaseProduct electronicsItem = new Product("TV", 333, "Electronics");
         RetailsWebsitesDiscountPolicy discountPolicy = new FixedDiscount();
         
         ShoppingCart shoppingCart = new ShoppingCart(employee, discountPolicy);

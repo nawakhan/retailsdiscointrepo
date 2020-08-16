@@ -15,7 +15,7 @@ import com.retailstore.model.Product;
 import com.retailstore.model.ShoppingCart;
 import com.retailstore.model.User;
 
-public class TestAffiliateDiscounts {
+public class TestRetailDiscountProject {
 	
 	private User affiliateUser;
 	private User employeeUser;
