@@ -1,2 +1,2 @@
 # retailsdiscointrepo
-This Repo contains the project to Apply discounts to total net amount while purchasing from a Retail Website
+This Repo contains the project to find net payable amount for a retail website, after applying different kinds of discounts.
